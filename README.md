@@ -1,9 +1,10 @@
 ### Olá! Eu sou o Hugo Nascimento 👍🏾👍🏾👍🏾
 
+<br>
 💻 Envolvido com projetos de programação desde 2010.
-
 <br>
 
+<br>
 <div style="display: inline-block">
   <img align="center" alt="Hugo-CSharp" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/csharp-original.svg?raw=true">
   <img align="center" alt="Hugo-DotNet" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/dot-net-original.svg?raw=true">
@@ -26,6 +27,7 @@ Com o C# passei a criar aplicações mais complexas, com por exemplo pra consumo
   <img align="center" alt="Hugo-PostgreSql" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/postgresql-original.svg?raw=true">
 </div>
 Atuo em projetos que envolvam bancos de dados desde 2014. Tanto nos projetos do Excel quanto os projetos do .NET utilizaram conexão com algum banco, seja ele MS SQL Server, MySQL, PostgreSQL ou Oracle. Estes projetos utilizam Consultas SQL para CRUD (Create, Read, Update and Delete), Views, Stored Procedures e Triggers.
+
 
 <br>
 
