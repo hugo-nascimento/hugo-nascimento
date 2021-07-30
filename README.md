@@ -44,6 +44,7 @@ Atuo em projetos que envolvam bancos de dados desde 2014. Tanto nos projetos do 
   <img align="center" alt="Hugo-React" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/react-original.svg?raw=true">
   <img align="center" alt="Hugo-Php" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/php-original.svg?raw=true">
   <img align="center" alt="Hugo-NodeJs" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/nodejs-original.svg?raw=true">
+  <img align="center" alt="Hugo-Bootstrap" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/bootstrap-plain.svg?raw=true">
 </div>
 Atualmente estou aprendendo linguagens de plataforma web, principalmente para Frontend.
 
