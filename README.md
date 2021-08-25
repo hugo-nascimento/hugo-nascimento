@@ -51,9 +51,8 @@ Atualmente estou aprendendo linguagens de plataforma web, principalmente para Fr
 ##
 
 [![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugo-nascimento&show_icons=true&theme=tokyonight)](https://github.com/hugo-nascimento/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-nascimento&layout=compact&theme=tokyonight)](https://github.com/hugo-nascimento/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-nascimento&theme=tokyonight)](https://github.com/hugo-nascimento/github-readme-stats)
 
 ##
 <div>
