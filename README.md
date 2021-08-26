@@ -49,10 +49,11 @@ Atuo em projetos que envolvam bancos de dados desde 2014. Tanto nos projetos do 
 Atualmente estou aprendendo linguagens de plataforma web, principalmente para Frontend.
 
 ##
-
-[![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugo-nascimento&show_icons=true&theme=tokyonight)](https://github.com/hugo-nascimento/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-nascimento&layout=compact&theme=tokyonight)](https://github.com/hugo-nascimento/github-readme-stats)
-
+<div>
+  <a href="https://github.com/hugo-nascimento">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugo-nascimento&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-nascimento&layout=compact&theme=tokyonight" />
+</div>
 
 ##
 <div>
