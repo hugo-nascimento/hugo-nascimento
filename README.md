@@ -12,8 +12,14 @@
   <img align="center" alt="Hugo-Vs" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/visualstudio-plain.svg?raw=true">
   <img align="center" alt="Hugo-Vsc" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/vscode-original.svg?raw=true">
   <img align="center" alt="Hugo-Excel" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/icons8-microsoft-excel.svg?raw=true">
-  <img align="center" alt="Hugo-Vba" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/file_type_vba_icon_130097.svg?raw=true">
   <img align="center" alt="Hugo-Vb.Net" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/VB.NET_Logo.svg?raw=true">
+  <img align="center" alt="Hugo-Html5" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/html5-original.svg?raw=true">
+  <img align="center" alt="Hugo-Css3" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/css3-original.svg?raw=true">
+  <img align="center" alt="Hugo-Js" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/javascript-original.svg?raw=true">
+  <img align="center" alt="Hugo-Vue" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/vuejs-original.svg?raw=true">
+  <img align="center" alt="Hugo-Angular" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/angularjs-original.svg?raw=true">
+  <img align="center" alt="Hugo-NodeJs" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/nodejs-original.svg?raw=true">
+  <img align="center" alt="Hugo-Bootstrap" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/bootstrap-plain.svg?raw=true">
 </div>
 Nos primeiros anos, utilizei a linguagem VBA dentro do Excel, para automatização de relatórios e criação de formulário.
 Posteriormente, passei a trabalhar com a plataforma .NET no intuito de migrar os forms do Excel e criar aplicações para rodar periodicamente direto no servidor. No início somente com Vb.Net e depois com C#. Com o C# passei a criar aplicações mais complexas, com por exemplo pra consumo de APIs.
@@ -34,19 +40,6 @@ Atuo em projetos que envolvam bancos de dados desde 2014. Tanto nos projetos do 
 
 <br>
 
-<br>
-<div style="display: inline-block">
-  <img align="center" alt="Hugo-Html5" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/html5-original.svg?raw=true">
-  <img align="center" alt="Hugo-Css3" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/css3-original.svg?raw=true">
-  <img align="center" alt="Hugo-Js" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/javascript-original.svg?raw=true">
-  <img align="center" alt="Hugo-Vue" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/vuejs-original.svg?raw=true">
-  <img align="center" alt="Hugo-Angular" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/angularjs-original.svg?raw=true">
-  <img align="center" alt="Hugo-React" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/react-original.svg?raw=true">
-  <img align="center" alt="Hugo-Php" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/php-original.svg?raw=true">
-  <img align="center" alt="Hugo-NodeJs" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/nodejs-original.svg?raw=true">
-  <img align="center" alt="Hugo-Bootstrap" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/bootstrap-plain.svg?raw=true">
-</div>
-Atualmente estou aprendendo linguagens de plataforma web, principalmente para Frontend.
 
 ##
 <div>
