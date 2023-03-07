@@ -44,7 +44,7 @@ Atuo em projetos que envolvam bancos de dados desde 2014. Tanto nos projetos do 
 ##
 <div>
   <a href="https://github.com/hugo-nascimento">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugo-nascimento&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugo-nascimento" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-nascimento&layout=compact&theme=tokyonight" />
 </div>
 
