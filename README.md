@@ -16,8 +16,8 @@
   <img align="center" alt="Hugo-Vb.Net" height="30" width="40" src="https://github.com/hugo-nascimento/hugo-nascimento/blob/master/VB.NET_Logo.svg?raw=true">
 </div>
 Nos primeiros anos, utilizei a linguagem VBA dentro do Excel, para automatização de relatórios e criação de formulário.
-Posteriormente, passei a trabalhar com a plataforma .NET no intuito de migrar os forms do Excel e criar aplicações para rodar periodicamente direto no servidor. No início somente com Vb.Net e depois com C#, que hoje é a linguagem predominante no meu dia a dia desde 2019.
-Com o C# passei a criar aplicações mais complexas, com por exemplo pra consumo de APIs.
+Posteriormente, passei a trabalhar com a plataforma .NET no intuito de migrar os forms do Excel e criar aplicações para rodar periodicamente direto no servidor. No início somente com Vb.Net e depois com C#. Com o C# passei a criar aplicações mais complexas, com por exemplo pra consumo de APIs.
+Desde 2021, atuo em projetos Web (Front End e Back end). Os projetos de Front End são desenvolvidos em TypeScript e framework Angular, e os projetos de Back End utilizo C# com o framework .NET no desenvolvimento de API's REST. 
 
 
 <br>
